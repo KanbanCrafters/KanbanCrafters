@@ -1,8 +1,6 @@
 # :melon:KanbanCrafters:melon:
-### 팀원 : 안우용, 우지영, 심규혁, 최원규, 박재린
+#### :man_technologist::frowning_woman::frowning_person::raising_hand_man::ok_woman: 안우용, 우지영, 심규혁, 최원규, 박재린
 
-
-### :man_technologist::frowning_woman::frowning_person::raising_hand_man::ok_woman:
 ```                                                                                                    
                                                                                                     
       ....::::---=====+++++====--:::......                                                        :+
