@@ -1,6 +1,8 @@
-# 팀명: KanbanCrafters
+# :melon:KanbanCrafters:melon:
 ### 팀원 : 안우용, 우지영, 심규혁, 최원규, 박재린
 
+
+### :man_technologist::frowning_woman::frowning_person::raising_hand_man::ok_woman:
 ```                                                                                                    
                                                                                                     
       ....::::---=====+++++====--:::......                                                        :+
@@ -43,3 +45,6 @@
 =...=+++===+-=+%@@@@**++++*-===+*#+..:...............+..........=-..:=+-:-+#==---=-:=**##*#****%@@@@
 ==#####++#%===+%@@@@***++%@@#@@%%@+..:..............     .......--..:+#-:-+%+=====-:=+*****+++*%#@@@
 ```
+
+## KANBAN 
+![IMG_1239 (1)](https://github.com/KanbanCrafters/KanbanCrafters/assets/148875683/4d5d75e1-e667-455b-bfa0-828f37ba9811)
